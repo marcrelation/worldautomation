@@ -1,2 +1,1 @@
-# worldautomation
-World Automation AWS Testing
+Simple webserver and ha webserver in aws.  need to update this readme still.
